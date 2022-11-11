@@ -15,7 +15,7 @@ arr = [1,2,3,4,5,6]
 # 1) One liner code
 result_1 = arr.each_with_object({even: [], odd: []}) { |num, data| num%2==0 ? data[:even] = data[:even] << num : data[:odd] = data[:odd] << num}.values
 
-puts "One Liner Code Output: #{result_1}"
+p "One Liner Code Output: #{result_1}"
 
 # 2) Multiline code 
 result_2 = arr.each_with_object({even: [], odd: []}) do |num, data|
@@ -26,4 +26,4 @@ result_2 = arr.each_with_object({even: [], odd: []}) do |num, data|
   end
 end.values
 
-puts "Multiline Code Output: #{result_2}"
+p "Multiline Code Output: #{result_2}"
