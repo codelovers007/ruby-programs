@@ -1,0 +1,19 @@
+# Design a class structure for a simple banking system.
+ 
+# The system should support the following functionalities:
+ 
+# Creating new accounts with a 
+# unique account number, 
+# initial balance, and 
+# account holder name.
+
+# Depositing money into an account.
+
+# Withdrawing money from an account (assuming sufficient balance).
+# Checking the balance of an account.
+
+
+# Account table
+# account_number
+# balance
+# name
