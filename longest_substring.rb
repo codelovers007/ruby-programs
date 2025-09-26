@@ -3,7 +3,7 @@
 # Output: 3
 # Explanation: The answer is "abc", with the length of 3.
 
-def lengthOfLongestSubstring(str)
+def length_of_longest_substring(str)
   left = 0 
   max_length = 0
   data = Set.new
@@ -23,4 +23,4 @@ def lengthOfLongestSubstring(str)
 end
 
 s = "abcabcbb"
-lengthOfLongestSubstring(s)
+length_of_longest_substring(s)
