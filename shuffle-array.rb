@@ -1,4 +1,4 @@
-#[Leetcode] 1470. Shuffle the Array
+# https://leetcode.com/problems/shuffle-the-array/
 def shuffle(nums, n)
     i = 0
     result = []
