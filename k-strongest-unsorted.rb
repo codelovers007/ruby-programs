@@ -1,4 +1,5 @@
-#[LeetCode] 1471. The k Strongest Values in an Array (Unsorted Array)
+# https://leetcode.com/problems/the-k-strongest-values-in-an-array 
+# Unsorted Array
 
 #arr = [6,7,11,7,6,8]
 #k = 5
