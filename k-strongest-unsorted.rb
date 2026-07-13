@@ -1,4 +1,4 @@
-#[LeetCode] 1471. The k Strongest Values in an Array
+#[LeetCode] 1471. The k Strongest Values in an Array (Unsorted Array)
 
 #arr = [6,7,11,7,6,8]
 #k = 5
