@@ -1,5 +1,5 @@
 # [Leetcode]: https://leetcode.com/problems/design-browser-history/description/
-
+# Solution: https://leetcode.com/problems/design-browser-history/solutions/8402637/1472-design-browser-history-by-nirajhack-qxdn/
 class LinkedList
   attr_accessor :head, :tail
 end
